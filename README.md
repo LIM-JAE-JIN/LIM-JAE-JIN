@@ -4,12 +4,10 @@
 # 👋 Hi there!
 
 * 💻 
-* 🎨 
-* 😎 
 
 ✉ Email : wowls9416@gmail.com<br>
-🖥 Resume : [이력서](https://inquisitive-blue-ad5.notion.site/910770af0d8a45cb8f7b1dc3930d8814)<br>
-📘 Blog : [블로그](https://wowls9416.tistory.com/)
+🖥 Resume : [이력서 바로가기](https://inquisitive-blue-ad5.notion.site/910770af0d8a45cb8f7b1dc3930d8814)<br>
+📘 Blog : [블로그 바로가기](https://wowls9416.tistory.com/)
 <br>
 <br>
 <br>
